@@ -1,0 +1,14 @@
+-keepattributes *Annotation*
+-keepclassmembers class ** {
+    public void on*Event(...);
+}
+-keepclasseswithmembernames class * {
+    native <methods>;
+}
+-dontwarn  org.eclipse.jdt.annotation.**
+
+# sdk版本小于18时需要以下配置, 建议使用18或以上版本的sdk编译
+-dontwarn  android.location.Location
+-dontwarn  android.net.wifi.WifiManager
+
+-dontnote ct.**

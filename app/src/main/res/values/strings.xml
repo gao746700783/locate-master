@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">locate-master</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_baidu">BaiduActivity</string>
+    <string name="title_activity_gaode">GaodeActivity</string>
+    <string name="title_activity_tencent">TencentActivity</string>
+</resources>
