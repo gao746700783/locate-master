@@ -14,7 +14,10 @@
 * Official Accounts: 全栈技术
 
 ## WiKi
-* Gaussic: [http://my.oschina.net/u/1408868][2]
+* 原生: 暂缺
+* 百度: [http://lbsyun.baidu.com/index.php?title=android-locsdk][2]
+* 高德: [http://lbs.amap.com/api/android-location-sdk/guide/buildproject/][3]
+* 腾讯: [http://lbs.qq.com/geo/guide.html][4]
 
 ## License
 
@@ -35,4 +38,7 @@
 
 
 [1]: http://my.oschina.net/u/1408868
-[2]: http://my.oschina.net/gaussik/blog/385697
+[2]: http://lbsyun.baidu.com/index.php?title=android-locsdk
+[3]: http://lbs.amap.com/api/android-location-sdk/guide/buildproject/
+[4]: http://lbs.qq.com/geo/guide.html
+
