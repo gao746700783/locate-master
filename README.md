@@ -2,9 +2,13 @@
   Android定位实现，包括原生定位、百度高德腾讯定位
 ## 实现详情
 - 原生定位
+>不好用
 - 百度定位
+>百度LBS开放平台发布定位SDK 5.0版本，首次开放全球定位能力
 - 高德定位
+>
 - 腾讯定位
+>未成功
 
 
 ## About Me
@@ -12,12 +16,15 @@
 * Blog: [http://my.oschina.net/u/1408868][1]
 * Mail: gao746700783@163.com
 * Official Accounts: 全栈技术
+* Github: [https://github.com/gao746700783][2]
+* Sina: [http://weibo.com/GxhPro][3]
+* Zhihu: [https://www.zhihu.com/people/gaoxiaohui][4]
 
 ## WiKi
 * 原生: 暂缺
-* 百度: [http://lbsyun.baidu.com/index.php?title=android-locsdk][2]
-* 高德: [http://lbs.amap.com/api/android-location-sdk/guide/buildproject/][3]
-* 腾讯: [http://lbs.qq.com/geo/guide.html][4]
+* 百度: [http://lbsyun.baidu.com/index.php?title=android-locsdk][5]
+* 高德: [http://lbs.amap.com/api/android-location-sdk/guide/buildproject/][6]
+* 腾讯: [http://lbs.qq.com/geo/guide.html][7]
 
 ## License
 
@@ -38,7 +45,10 @@
 
 
 [1]: http://my.oschina.net/u/1408868
-[2]: http://lbsyun.baidu.com/index.php?title=android-locsdk
-[3]: http://lbs.amap.com/api/android-location-sdk/guide/buildproject/
-[4]: http://lbs.qq.com/geo/guide.html
+[2]: https://github.com/gao746700783
+[3]: http://weibo.com/GxhPro
+[4]: https://www.zhihu.com/people/gaoxiaohui
+[5]: http://lbsyun.baidu.com/index.php?title=android-locsdk
+[6]: http://lbs.amap.com/api/android-location-sdk/guide/buildproject/
+[7]: http://lbs.qq.com/geo/guide.html
 
