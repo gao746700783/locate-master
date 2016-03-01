@@ -70,8 +70,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.tencent:
                 startActivity(new Intent(this,TencentActivity.class));
                 break;
-
-
+            default:
+                break;
         }
     }
 }
